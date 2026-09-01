@@ -77,7 +77,7 @@ We've all been there—trying to manage a team, family, or personal life through
     Your app will be running at `http://localhost:5177` (or similar, depending on Vite).
 
 ## Demo
-[https://www.loom.com/share/006f7998a3e048fdb516b6ea670e340c](#)
+Watch the demo video on Loom: [VoiceTask Demo](https://www.loom.com/share/006f7998a3e048fdb516b6ea670e340c)
 
 ---
 *Built for the iQOO Hackathon 2026 — Productivity Track.*
